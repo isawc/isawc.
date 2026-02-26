@@ -37,12 +37,3 @@ Estou focado em construir um portfólio robusto, buscando oportunidades de está
 
 ---
 
-_**Dica:** Você pode adicionar suas estatísticas do GitHub aqui para deixar seu perfil ainda mais dinâmico!_ 
-
-Exemplo:
-
-```markdown
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=isawc&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-```
-
-_Lembre-se de substituir `SEU_USUARIO_LINKEDIN` e `SEU_EMAIL@example.com` pelos seus dados reais, caso sejam diferentes dos que já preenchi._
